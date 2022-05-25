@@ -17,7 +17,7 @@ pycodestyle==2.3.1
 pycrypto==2.6.1
 pyflakes==1.6.0
 Pygments==2.2.0
-PyJWT==1.6.1
+PyJWT==2.4.0
 python-weixin==0.3.0
 pytz==2018.3
 PyYAML==3.12
